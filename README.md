@@ -1,3 +1,3 @@
 Contains a fun dice game 
 
-https://user-vishnu.github.io/dice-game/
+https://incarnatorx.github.io/dice-game/
